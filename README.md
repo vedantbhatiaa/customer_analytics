@@ -21,12 +21,12 @@ marketing ROI against a blanket mailing baseline.
 - **K-means clustering** — elbow method for optimal k, scaled 
   preprocessing, cluster profiling and response rate analysis
 
-  ![Elbow Method for Determining Optimal k](elbow method.png)
+  ![Elbow Method for Determining Optimal k](elbow_method.png)
 
 - **Supervised learning** — decision tree (rpart) and random forest 
   (ranger) trained on RFM predictors with probability = TRUE
 
-  ![Decision Tree](decision tree.png)
+  ![Decision Tree](decision_tree.png)
 
 - **Model evaluation** — break-even response rate, ROI comparison 
   across all four targeting strategies
